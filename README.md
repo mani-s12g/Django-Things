@@ -3,8 +3,8 @@ Here i upload projects created using Django.
 
 User Authentication in Django:
 
-* This project is all about the basic introduction of how to handle user authentication in Django.
-* It's basically, just how things work in frontend and how to form signup, login form using many user modules present in Django.
+* This project is about the basic introduction of how to handle user authentication in Django.
+* It's basically how django handles authentication of user and there credentials. And how to form signup, login form using many user modules present in Django.
 * This project can be further improvised by using CSS and Bootstrap.
 
 Installation:
