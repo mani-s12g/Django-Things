@@ -1,0 +1,15 @@
+This project is based upon the python and Django Framework
+I have used these versions:
+* Python 3.8.1
+* Django 3.2.10
+
+Modules and sub-modules required:
+import these modules from django.contrib.auth,django.contrib.auth.decorators,forms
+1.authenticate
+2.get_user_model
+3.login
+4.logout
+5.login_required
+6.get_user_model
+7.UserLoginForm
+8.UserRegisterForm
