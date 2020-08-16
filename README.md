@@ -28,3 +28,7 @@ To do so pls dont forget to use the following command.
 
 Run:
 -python manage.py runserver
+
+Thank you.
+
+Manikanta.S
