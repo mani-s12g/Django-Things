@@ -1,6 +1,4 @@
 # Django-Things
-Here i upload projects created using Django.
-
 User Authentication in Django:
 
 * This project is about the basic introduction of how to handle user authentication in Django.
